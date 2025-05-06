@@ -6,3 +6,4 @@ from core.models import *
 admin.site.register(Acessorio)
 admin.site.register(Modelo)
 admin.site.register(Cor)
+admin.site.register(Veiculo)
