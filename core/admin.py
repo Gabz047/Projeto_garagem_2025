@@ -5,3 +5,4 @@ from core.models import *
 # Register your models here.
 admin.site.register(Acessorio)
 admin.site.register(Modelo)
+admin.site.register(Cor)
